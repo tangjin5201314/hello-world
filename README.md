@@ -1,2 +1,4 @@
 # hello-world
-As a practice
+As a practic
+仅仅只是练习
+想看看效果
